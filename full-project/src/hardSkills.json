@@ -1,0 +1,42 @@
+[
+  {
+    "name": "HTML",
+    "plot": "Hypertext Markup Language - is the standard markup language for documents designed to be displayed in a web browser"
+  },
+  {
+    "name": "CSS",
+    "plot": "Cascading Style Sheets - is a style sheet language used for describing the presentation of a document written"
+  },
+  {
+    "name": "SASS",
+    "plot": "Sass is a preprocessor scripting language that is interpreted or compiled into CSS"
+  },
+  {
+    "name": "LESS",
+    "plot": "Leaner Style Sheets - is a dynamic preprocessor style sheet language that can be compiled into CSS"
+  },
+  {
+    "name": "Bootstrap",
+    "plot": "Bootstrap - is a CSS framework directed at responsive, mobile-first front-end web development"
+  },
+  {
+    "name": "Vue.js",
+    "plot": "Vue.js - is an open-source JavaScript framework for building user interfaces and single-page applications"
+  },
+  {
+    "name": "JavaScript",
+    "plot": "JavaScript - is a high-level, interpreted scripting language that conforms to the ECMAScript specification"
+  },
+  {
+    "name": "English",
+    "plot": "English is an important part of knowing a qualified programmer"
+  },
+  {
+    "name": "Photoshop",
+    "plot": "Adobe Photoshop - is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS"
+  },
+  {
+    "name": "Git Bash",
+    "plot": "Git - is a distributed version-control system for tracking changes in source code during software development"
+  }
+]

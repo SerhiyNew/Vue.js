@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input class="input" value="" type="text" />
+    <script>
+      // набір імен для конструктора
+
+      const arrOfNames = [
+        "Vasyl",
+        "Ivan",
+        "Dmitro",
+        "Alex",
+        "Andrii",
+        "Vitalii",
+        "Alexandr",
+        "Igor",
+        "Eugene",
+        "Afanasii",
+        "Inna",
+        "Tetyana",
+        "Alina",
+        "Olha",
+        "Nina",
+        "Maryna",
+        "Victoria",
+        "Ira",
+        "Valeriya",
+        "Svitlana"
+      ];
+
+      const arrOfSkils = [
+        "HTML",
+        "CSS",
+        "SASS",
+        "English",
+        "JavaScript",
+        "Photoshop",
+        "Git Bash",
+        "LESS",
+        "Bootstrap",
+        "Vue.js",
+        "Optimism",
+        "Punctuality",
+        "Responsibility",
+        "Energy",
+        "Sociability",
+        "Stress resistance",
+        "Determination",
+        "Leadership",
+        "Learning ability",
+        "Analytical skills",
+        "Team player"
+      ];
+
+      const arrOfContacts = ["GitHub", "Facebook", "Linkedin"];
+
+      // функція рандом 50 на 50
+      let getRandom = function() {
+        return Math.random() >= 0.5 ? true : false;
+      };
+
+      // функція рандом від 18 до 40 (генерую вік персонажів)
+      let getRandomAge = function() {
+        return ~~(18 + Math.random() * (41 - 18));
+      };
+
+      //  Конструктор об'єктів на основі "массиву імен" arrOfNames, що буде занесено в "базу даних" dataBase
+
+      let dataBase = [];
+
+      function Person(itemName) {
+        this.name = itemName;
+        this.secName = "Random";
+        this.age = getRandomAge();
+        this.info = "Lorem ipsum dolor sit amet, consectetur adipiscing elit";
+        this.value = 0;
+
+        this.skills = {};
+
+        for (let skill of arrOfSkils) {
+          getRandom() ? (this.skills[skill] = true) : false;
+        }
+
+        this.contacts = {};
+
+        for (let item of arrOfContacts) {
+          getRandom() ? (this.contacts[item] = "#") : false;
+        }
+      }
+
+      // створення Моєї Карточки.
+      function PersonMe(itemName) {
+        this.name = "Serhii";
+        this.secName = "Musiienko";
+        this.age = 31;
+        this.info =
+          "I want to solve complicated problems and make use of my knowledge and experience in order to improve my professional skills. My goals are to become a Middle in a year, and in 4-5 years to become a TeamLead and a Senior.";
+        this.skills = {};
+        this.value = 0;
+
+        for (let skill of arrOfSkils) {
+          this.skills[skill] = true;
+        }
+
+        this.contacts = {};
+        this.contacts.Linkedin = "https://www.linkedin.com/in/musienkoserhiy";
+        this.contacts.GitHub = "https://github.com/SerhiyNew";
+      }
+
+      // створення карточки Бомжа Валєри.
+      function PersonValera(itemName) {
+        this.name = "Valyera";
+        this.secName = "Homeless";
+        this.age = 44;
+        this.info = " I can make your website great again !!! ";
+
+        this.skills = {};
+        this.value = 0;
+
+        for (let skill of arrOfSkils) {
+          this.skills[skill] = false;
+        }
+        this.skills.CSS = true;
+        this.skills.HTML = true;
+
+        this.contacts = {};
+      }
+
+      // власне наповнення "бази даних" dataBase даними
+      for (let itemName of arrOfNames) {
+        dataBase.push(new Person(itemName));
+      }
+      // додаємо до "бази даних" мене і Валєру.
+      dataBase.push(new PersonMe("Serhii"));
+      dataBase.push(new PersonValera("Valyera"));
+
+      console.log(dataBase);
+      //console.log(dataBase.length);
+
+      //10) JSON.stringify(dataBase) стирає вміст массиву((((
+
+      // var test = JSON.stringify(dataBase);
+      // var test2 = JSON.parse(test);
+      //console.log(test);
+
+      // function getJSONString(dataBase) {
+      //   let url = document.getElementsByClassName("input");
+      //   url[0].value = JSON.stringify(dataBase);
+      // }
+
+      // getJSONString(dataBase);
+
+      localStorage.setItem("databasetest12", JSON.stringify(dataBase));
+    </script>
+  </body>
+</html>

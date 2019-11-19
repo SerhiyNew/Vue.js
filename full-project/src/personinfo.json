@@ -1,0 +1,496 @@
+[
+	{
+		"name": "Serhii",
+		"secName": "Musiienko",
+		"age": 31,
+		"info": "I want to solve complicated problems and make use of my knowledge and experience in order to improve my professional skills. My goals are to become a Middle in a year, and in 4-5 years to become a Senior and a TeamLead.",
+		"skills": {
+			"HTML": true,
+			"CSS": true,
+			"SASS": true,
+			"English": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Git Bash": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Sociability": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Leadership": true,
+			"Learning ability": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"value": 0,
+		"contacts": {
+			"Linkedin": "https://www.linkedin.com/in/musienkoserhiy",
+			"GitHub": "https://github.com/SerhiyNew"
+		}
+	},
+	{
+		"name": "Valyera",
+		"secName": "Homeless",
+		"age": 44,
+		"info": " I can make your website great again !!! ",
+		"skills": {
+			"HTML": true,
+			"CSS": true
+		},
+		"value": 0,
+		"contacts": {}
+	},
+	{
+		"name": "Vasyl",
+		"secName": "Random",
+		"age": 21,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"CSS": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Sociability": true,
+			"Determination": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Ivan",
+		"secName": "Random",
+		"age": 30,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"CSS": true,
+			"Photoshop": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Energy": true,
+			"Stress resistance": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Dmitro",
+		"secName": "Random",
+		"age": 31,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"CSS": true,
+			"English": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Responsibility": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Leadership": true,
+			"Learning ability": true,
+			"Analytical skills": true
+		},
+		"contacts": {
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Alex",
+		"secName": "Random",
+		"age": 23,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"English": true,
+			"Photoshop": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Sociability": true,
+			"Learning ability": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Andrii",
+		"secName": "Random",
+		"age": 52,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"SASS": true,
+			"English": true,
+			"JavaScript": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Determination": true,
+			"Leadership": true,
+			"Learning ability": true,
+			"Analytical skills": true
+		},
+		"contacts": {
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Vitalii",
+		"secName": "Random",
+		"age": 38,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"English": true,
+			"Photoshop": true,
+			"LESS": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Leadership": true,
+			"Team player": true
+		},
+		"contacts": {
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Alexandr",
+		"secName": "Random",
+		"age": 34,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"JavaScript": true,
+			"Git Bash": true,
+			"LESS": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Energy": true,
+			"Sociability": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Team player": true
+		},
+		"contacts": {
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Igor",
+		"secName": "Random",
+		"age": 20,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"SASS": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Git Bash": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Sociability": true
+		},
+		"contacts": {
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Eugene",
+		"secName": "Random",
+		"age": 36,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"English": true,
+			"JavaScript": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Stress resistance": true,
+			"Learning ability": true,
+			"Analytical skills": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Afanasii",
+		"secName": "Random",
+		"age": 40,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"CSS": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Punctuality": true,
+			"Energy": true,
+			"Sociability": true,
+			"Determination": true,
+			"Analytical skills": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Inna",
+		"secName": "Random",
+		"age": 40,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"Git Bash": true,
+			"Vue.js": true,
+			"Sociability": true,
+			"Determination": true
+		},
+		"contacts": {
+			"GitHub": "#"
+		}
+	},
+	{
+		"name": "Tetyana",
+		"secName": "Random",
+		"age": 33,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"JavaScript": true,
+			"Photoshop": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Energy": true,
+			"Determination": true,
+			"Learning ability": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"contacts": {}
+	},
+	{
+		"name": "Alina",
+		"secName": "Random",
+		"age": 20,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"CSS": true,
+			"English": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Git Bash": true,
+			"Bootstrap": true,
+			"Punctuality": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Learning ability": true,
+			"Analytical skills": true
+		},
+		"contacts": {
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Olha",
+		"secName": "Random",
+		"age": 38,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"English": true,
+			"Git Bash": true,
+			"LESS": true,
+			"Punctuality": true,
+			"Sociability": true,
+			"Leadership": true,
+			"Learning ability": true,
+			"Analytical skills": true,
+			"Team player": true
+		},
+		"contacts": {
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Nina",
+		"secName": "Random",
+		"age": 37,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Energy": true,
+			"Stress resistance": true,
+			"Determination": true,
+			"Team player": true
+		},
+		"contacts": {
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Maryna",
+		"secName": "Random",
+		"age": 38,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"SASS": true,
+			"English": true,
+			"Photoshop": true,
+			"LESS": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Learning ability": true,
+			"Team player": true
+		},
+		"contacts": {
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Victoria",
+		"secName": "Random",
+		"age": 36,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"English": true,
+			"Photoshop": true,
+			"Optimism": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Sociability": true,
+			"Determination": true,
+			"Learning ability": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Facebook": "#"
+		}
+	},
+	{
+		"name": "Ira",
+		"secName": "Random",
+		"age": 28,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"HTML": true,
+			"SASS": true,
+			"English": true,
+			"JavaScript": true,
+			"Photoshop": true,
+			"Git Bash": true,
+			"LESS": true,
+			"Bootstrap": true,
+			"Vue.js": true,
+			"Optimism": true,
+			"Punctuality": true,
+			"Energy": true,
+			"Sociability": true,
+			"Stress resistance": true,
+			"Leadership": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Valeriya",
+		"secName": "Random",
+		"age": 35,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"English": true,
+			"LESS": true,
+			"Responsibility": true,
+			"Sociability": true,
+			"Determination": true,
+			"Leadership": true
+		},
+		"contacts": {
+			"Facebook": "#",
+			"Linkedin": "#"
+		}
+	},
+	{
+		"name": "Svitlana",
+		"secName": "Random",
+		"age": 28,
+		"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+		"value": 0,
+		"skills": {
+			"CSS": true,
+			"SASS": true,
+			"JavaScript": true,
+			"Git Bash": true,
+			"Punctuality": true,
+			"Responsibility": true,
+			"Energy": true,
+			"Stress resistance": true,
+			"Learning ability": true,
+			"Team player": true
+		},
+		"contacts": {
+			"GitHub": "#"
+		}
+	}
+]
