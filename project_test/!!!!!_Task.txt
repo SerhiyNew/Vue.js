@@ -1,0 +1,53 @@
+Создать Vue.js CRUD application с хранением данных в local storage.
+
+Приложение состоит из двух страниц.
+
+Страница 1. 
+На первой странице отображается таблица сохраненных данных.
+В таблице поля: "name" "surname" "phone" "email" и кнопки "delete" "edit"
+
+Над таблицей кнопка "Add user"
+
+Кнопки "Add user" и "edit" ведут на страницу №2
+
+Страница 2.
+На странице можно добавлять или редактировать уже существующие записи. (поля "name" "surname" "phone" "email")
+При редактировании в полях должны загружаться соответствующие данные.
+
+Также на этой странице можно импортировать данные из JSON массива.
+Пользователь вводит в  отдельное поле "Import JSON" JSON массив, приложение его парсит и сохраняет.
+
+Все данные таблицы должны храниться в локальном хранилище.
+
+
+паттерн на ДжейСон
+inputeFile
+readJSON
+
+
+let users= [
+    {
+      "name": "Dexter",
+      "surName": "Morgan",
+      "phone": "555-323-551",
+      "email": "DexMorgan@MiamiMPD.com"
+    },
+    {
+      "name": "Debra",
+      "surName": "Morgan",
+      "phone": "555-122-336",
+      "email": "DebMorgan@MiamiMPD.com"
+    },
+    {
+      "name": "Angel",
+      "surName": "Batista",
+      "phone": "555-332-312",
+      "email": "ABatista@MiamiMPD.com"
+    }
+  ];
+
+//localStorage.setItem("users", JSON.stringify(users));
+
+console.log(JSON.stringify(users));
+
+0204
